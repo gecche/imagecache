@@ -22,7 +22,7 @@
         "intervention/image": "~2.2",
         "illuminate/cache": "^5.5|~6|~7|~8|~9|~10|~11|~12",
         "illuminate/filesystem": "^5.5|~6|~7|~8|~9|~10|~11|~12",
-        "nesbot/carbon": "^2.39",
+        "nesbot/carbon": "^2.39|^3.8",
         "opis/closure": "^3.5"
     },
     "require-dev": {
